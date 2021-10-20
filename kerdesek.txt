@@ -1,0 +1,3 @@
+Rákérdezni hogy repeat vagy no repeat kitöltés
+Bluetooth h1 külön formázása
+weboldal középre igazítása nem feladat de a kép szerint igen
