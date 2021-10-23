@@ -6,7 +6,7 @@ body{
     max-width: 1000px;
     background-color: rgb(172,243,243);
     padding: 20px;
-
+    margin: 0 auto;
 }
 
 h1,h2{
@@ -37,7 +37,7 @@ th{
 table td, th{
     text-align: center;
     padding: 5px;
-    border: 0.5px solid white;
+    border: 0.3px solid white;
 }
 
 .kep-tarolo{
@@ -59,4 +59,7 @@ table td, th{
 
 .kep-tarolo div img{
     max-width: 200px;
+}
+footer{
+    text-align: right;
 }
